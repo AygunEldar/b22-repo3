@@ -1,0 +1,6 @@
+We just pubkished our local git repo
+to remote GitHub.com repostory
+few things happened:
+1.it automatically created new reote repo under your GitHub.com acount
+2.Made the connection with youe local git repo
+Added all your commits to remote repo
